@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: consumer-user
+server:
+    port:8200
